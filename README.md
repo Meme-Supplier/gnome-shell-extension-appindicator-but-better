@@ -23,8 +23,8 @@ Alternatively, you can check out a version from git, compile the language files,
 `~/.local/share/gnome-shell/extensions/appindicatorsupport@rgcjonas.gmail.com` to your clone:
 
 ```bash
-git clone https://github.com/ubuntu/gnome-shell-extension-appindicator.git
-meson gnome-shell-extension-appindicator /tmp/g-s-appindicators-build
+git clone https://github.com/Meme-Supplier/gnome-shell-extension-appindicator-but-better.git
+meson gnome-shell-extension-appindicator-but-better /tmp/g-s-appindicators-build
 ninja -C /tmp/g-s-appindicators-build install
 gnome-extensions enable appindicatorsupport@rgcjonas.gmail.com
 ```
